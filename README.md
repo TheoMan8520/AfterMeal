@@ -6,6 +6,7 @@ After meal is an iOS application project that had been submitted to Swift Studen
 
 This is a former design concept of AfterMeal, but in latest version, I intended to use more orginal designs and code from Apple resulting in a bit different outcome.
 https://www.figma.com/file/K8wTRIKemkyUoP34sPwsKK/AfterMeal?type=design&node-id=602%3A9057&mode=design&t=ez3iZ2zsNezDa1UB-1 
+
 I captured some screens from the real application running on preview of XCode. You can find them in the folder.
 
 Thank you for taking a time reading this. Hope you get something you are looking for.
